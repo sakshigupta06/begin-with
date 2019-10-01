@@ -1,4 +1,4 @@
 _#begin-with_
 __First repo__
-Starting with __Github!!!__
-(http://github.com)
+Starting with [GitHub!!](http://www.github.com)
+
